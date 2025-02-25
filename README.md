@@ -4,7 +4,8 @@ What follows is the arduous journey to building mastery in machine learning.
 
 This isn't your typical ML interview repo or resource for hacking the interview process.
 
-I'm building this for myself and anyone who wants to build mastery in machine learning.
+I'm building this for myself and anyone who wants to stand on their own two feet. Truly master what they
+preach.
 
 ## Why am I doing this?
 
