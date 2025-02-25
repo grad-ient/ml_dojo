@@ -15,9 +15,21 @@ done to me okay so far, but something is missing. I know in certain rooms I've b
 ## How will this work?
 
 I will build a series of resources tackling the key pillars of machine learning and the knowledge required to
-unlock the doors of the best companies in the field. I hope this resource not only helps me but helps many others to 
-achieve their dreams. It's OK to strive to be working with the best. But it doesn't come easy. I'm twelve months into
-this journey, and I've barely scratched the surface.
+unlock the doors of the best companies in the field. I hope this resource not only helps me but helps many others to achieve their dreams. It's OK to strive to be working with the best. But it doesn't come easy. I'm twelve months into this journey, and I've barely scratched the surface.
+
+## Status
+
+Data Structures and Algorithms (300 Leetcode problems)
+![](https://geps.dev/progress/33)
+
+Math for Machine Learning (Math Academy)
+![](https://geps.dev/progress/6)
+
+Deep ML Problems (100 problems)
+![](https://geps.dev/progress/1)
+
+Machine Learning System Design (30 case studies)
+![](https://geps.dev/progress/0)
 
 ## What will we cover?
 
@@ -26,10 +38,9 @@ this journey, and I've barely scratched the surface.
 | Data Structures and Algorithms | This is what I call defensive programming. Job markets are competitive, and layoffs are real. You must engrain the concepts and patterns of DS&A to not only get the best job you can but also be ready for the worst. Whether you're a new grad, an experienced engineer, or an engineer manager, you must be ready to code in an interview setting. Crucially, DS&As set you up for on-the-job success. Goal: 300 Leetcode problems |
 | Math for Machine Learning (Math Academy) | For those blessed with math aptitude, feel free to skip this section. For those who are not, this is your chance to catch up using the best resource out there. The best bit is that they will expand into machine learning and programming domains, perhaps leaving this codebase in the dust. Goal: Math for Machine Learning completed |
 | 100 Deep ML Problems | Another wonderful resource. Deep ML provides practical coding problems for machine learning engineers. A vital resource for learning how to build core machine learning components from first principles. Goal: 100 problems |
-| Machine Learning Case Studies | This is where we get to the fun stuff. We'll build out a series of ML case studies leveraging Excalidraw. Goal: 30 case studies |
+| Machine Learning System Design | This is where we get to the fun stuff. We'll build out a series of ML case studies leveraging Excalidraw. Goal: 30 case studies |
 
-This might seem like a lot, but the penny has dropped. Peel back the veneer of click-bait job posts, and you'll find an unrelenting commitment to building mastery in machine learning. The best didn't take shortcuts. They did it
-through reps and dedication. 
+This might seem like a lot, but the penny has dropped. Peel back the veneer of click-bait job posts, and you'll find an unrelenting commitment to building mastery in machine learning. The best didn't take shortcuts. They did it through reps and dedication. 
 
 Take the 300-1-100-30 challenge. Think about this for a moment: imagine your transformation after 
 6-12 months. 
